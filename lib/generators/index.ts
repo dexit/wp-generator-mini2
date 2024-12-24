@@ -1,0 +1,9 @@
+export { generatePluginFile } from './plugin-file';
+export { generatePluginClass } from './plugin-class';
+export { generateCustomPostTypes } from './custom-post-types';
+export { generateCustomTaxonomies } from './custom-taxonomies';
+export { generateRestEndpoints } from './rest-endpoints';
+export { generateAdminPages } from './admin-pages';
+export { generateSettingsPage } from './settings-page';
+export { generateShortcodes } from './shortcodes';
+export { generateWidgets } from './widgets';
